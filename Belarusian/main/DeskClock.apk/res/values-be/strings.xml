@@ -113,9 +113,9 @@
     <string name="life_post_wake_up_item_percentage_title">Апярэджанне</string>
     <string name="life_post_wake_up_item_acumu_day_title">Дзень</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s</string>
-    <string name="life_post_setting">Надвор'е пад час будзільніку</string>
-    <string name="life_post_setting_open_title">Надвор'е пад час будзільніку</string>
-    <string name="life_post_setting_open_subtitle">Паказваць прагноз надвор'я і інфармацыю аб абуджэнні пад час выключэння паўтаральнага будзільніка ў прамежку 4:00 - 9:30</string>
+    <string name="life_post_setting">Надвор`е пад час будзільніку</string>
+    <string name="life_post_setting_open_title">Надвор`е пад час будзільніку</string>
+    <string name="life_post_setting_open_subtitle">Паказваць прагноз надвор`я і інфармацыю аб абуджэнні пад час выключэння паўтаральнага будзільніка ў прамежку 4:00 - 9:30</string>
     <string name="life_post_setting_wake_up_list_title">Гісторыя абуджэнняў</string>
     <string name="percentage_sign">%</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>

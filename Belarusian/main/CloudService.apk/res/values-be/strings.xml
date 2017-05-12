@@ -63,7 +63,7 @@
     <string name="activate_number_change_dialog_message">Абярыце асноўны нумар для Mi выкліка, які будзе бачны суразмоўцу.</string>
     <string name="phone_number_may_required_dspt_provision">"Гэты сэрвіс можа запытаць вашы нумар тэлефона. "</string>
     <string name="phone_number_required_dspt_provision">"Гэты сэрвіс запытвае вашы нумар тэлефона. "</string>
-    <string name="sync_resend_sms_dspt_provision">. Калі вы зменіце SIM-картку, вашы апер
+    <string name="sync_resend_sms_dspt_provision">. Калі вы зменіце SIM-картку, ваш аператар можа спаганяць плату за SMS для паўторнай актывацыі гэтага сэрвісу</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">Сінхранізацыя</string>
     <string name="sync_dspt_provision">"Mi Cloud дазваляе сінхранізаваць фота, кантакты, паведамленні і іншыя дадзеныя паміж прыладамі. Таксама вы можаце праглядаць дадзеныя з кампутара праз сайт "</string>
@@ -72,7 +72,8 @@
     <string name="sync_dspt_provision3">".
 "</string>
     <string name="sync_dspt_entrance_provision">Сінхранізуйце фота, кантакты і паведамленні на %s.</string>
-    <string name="sync_dspt_entrance_provision_2">Падрабязней</string>
+    <string name="sync_dspt_entrance_provision_2">
+Падрабязней</string>	
     <string name="sync_dspt_entrance_provision_confirm_close">ОК</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Адмена</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Прапусціць аўтарызацыю Mi Cloud?</string>
@@ -88,7 +89,8 @@
     <string name="mx_dspt_provision">Mi паведамленні дазваляюць карыстальнікам MIUI абменьвацца паведамленнямі бясплатна</string>
     <string name="mx_dspt_provision_with_voip">Mi выклікі дазваляюць карыстальнікам MIUI гутарыць задарма праз інтэрнэт. Палітыка прыватнасці</string>
     <string name="mx_dspt_provision_with_voip2">Палітыка прыватнасці</string>
-    <string name="mx_dspt_provision_privacy">Сэрвіс можа запытваць вашы нумар тэлефона. Вашы аператар можа спаганяць плату за SMS для актывацыі гэтага сэрвісу.\u000dГэта функцыя шыфруе і загружае ID прылады на сервер Xiaomi.</string>
+    <string name="mx_dspt_provision_privacy">Сэрвіс можа запытваць вашы нумар тэлефона. Ваш аператар можа спаганяць плату за SMS для актывацыі гэтага сэрвісу.\u000d
+Гэта функцыя шыфруе і загружае ID прылады на сервер Xiaomi.</string>											  
     <string name="mx_dspt_provision_privacy_2_sim">"Для выкарыстання гэтай функцыі можа спатрэбіцца ваш нумар тэлефону. Пры актывацыі аператар можа спаганяць плату за 2 SMS.\u000d
 \u000d
 Ваш ID будзе зашыфраваны і адасланы на сервер Xiaomi."</string>
@@ -123,7 +125,8 @@
     <string name="find_device_success_title">Пошук прылады</string>
     <string name="find_device_notice_p1">Наведайце сайт</string>
     <string name="find_device_notice_p2">i.mi.com</string>
-    <string name="find_device_notice_p3">для пошуку, блакавання ці аднаўлення вашай прылады.\u000dКалі вы змянілі SIM-картку, неабходна паўторна актываваць акаўнт па SMS.</string>
+    <string name="find_device_notice_p3">для пошуку, блакавання ці аднаўлення вашай прылады.\u000d
+Калі вы змянілі SIM-картку, неабходна паўторна актываваць акаўнт па SMS.</string>																																			  
 	<string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Выключана</string>
     <string name="find_device_disabled_notice">Вы можаце пераключаць функцыю пошуку прылады з наладаў Mi-акаўнта.</string>
@@ -164,7 +167,8 @@
     <string name="micloud_space_full_influence"><u>Падрабязней</u></string>
     <string name="micloud_storage_usage" formatted="false">Занята: %s | Усяго: %s</string>
     <string name="micloud_storage_full">Няма месца</string>
-    <string name="micloud_title_dspt" formatted="false">Усяго месца: %s \u000d Занята: %s | Вольна: %s</string>
+    <string name="micloud_title_dspt" formatted="false">Усяго месца: %s \u000d
+ Занята: %s | Вольна: %s</string>												  
     <string name="micloud_title_dspt_remain">Засталося: %s</string>
     <string name="micloud_title_full_dspt">Памяць запоўнена</string>
     <string name="micloud_user_space_usage">Інфармацыя пра памяць</string>
@@ -209,7 +213,7 @@
     <string name="micloud_all_sub_resend_sms">Пасля змены SIM-карткі будзе адаслана SMS для паўторнай актывацыі функцыі \"Пошук прылады\"</string>
     <string name="sync_item_calllog_title">Сінхранізацыя выклікаў</string>
     <string name="sync_item_calllog_summary">Сінхранізаваць журнал уваходных і выходных выклікаў</string>
-    string name="view_storage_title">Месца ў Mi Cloud</string>
+    <string name="view_storage_title">Месца ў Mi Cloud</string>
     <string name="storage">Памяць</string>
     <string name="setting">Налады</string>
     <string name="remind_later">Пазней</string>
@@ -512,4 +516,5 @@
     <string name="micloud_main_save_battery_on">Уключаны рэжым энергазберажэння</string>
     <string name="micloud_main_not_sync">Чаканне сінхранізацыі: %d</string>
     <string name="cloud_back_up_dialog_title">Бэкап працоўнага стала</string>
-	</resources>
+</resources>
+	

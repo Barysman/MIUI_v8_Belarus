@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сэрвісы Xiaomi</string>
+    <string name="xmsf_activate_info">Інфармацыя актывацыі XMSF</string>
+    <string name="error_device_id_title">Не атрымалася атрымаць ID прылады</string>
+    <string name="error_device_id_message">"Памылковы ID прылады: %s\u000d
+ID прылады павінен быць сапраўдны IMEI або MAC адрас. Без ID прылады, некаторыя акаўнты і воблачныя функцыі будуць недаступнымі."</string>
+    <string name="accept">ОК</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="sync_notification_title_format">Сінхранізацыя: %1$s</string>
+    <string name="explain_send_sms_permission_title">Праверка нумара тэлефону</string>
+    <string name="explain_send_sms_permission_msg">Для ўключэння %s, Xiaomi Service Framework адашле простае SMS для праверкі Вашага нумара тэлефона. Кошт згодна з тарыфным планам аператара.</string>
+    <string name="explain_send_sms_permission_button">Праверыць</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keywords_search_compass">Компас;Каліброўка компасу;Ціск;Шырата;Даўгата;Вышыня;MIUI компас;Кірункі свету;Поўнач;Поўдзень;Захад;Усход;Месцазнаходжанне</string>
+    <string name="app_label">Компас</string>
+    <string name="cannot_get_location">-</string>
+    <string name="location_north">"Паўночная
+шырата"</string>
+    <string name="location_south">"Паўднёвая
+шырата"</string>
+    <string name="location_east">"Усходняя
+даўгата"</string>
+    <string name="location_west">"Заходняя
+даўгата"</string>
+    <string name="calibrate_success">Каліброўка скончана</string>
+    <string name="calibrate_failed_no_location">Памылка каліброўкі</string>
+    <string name="calibrate_failed_timeout">Не атрымалася падлучыцца да серверу</string>
+    <string name="calibrate_failed">Памылка каліброўкі вышыні</string>
+    <string name="pressure_title">Ціск</string>
+    <string name="altitude_title">Вышыня</string>
+    <string name="pressure">%.1f</string>
+    <string name="altitude">%.1f</string>
+    <string name="pressure_unit">"
+мм рт.сл."</string>
+    <string name="altitude_unit">м</string>
+    <string name="angle">%.0f</string>
+    <string name="dialog_title_no_network">Не атрымалася падлучыцца да інтэрнэту</string>
+    <string name="dialog_body_no_network">Не атрымалася падлучыцца да інтэрнэту</string>
+    <string name="dialog_calibrat_altitude">Каліброўка…</string>
+    <string name="latitude">Шырата</string>
+    <string name="longitude">Даўгата</string>
+    <string name="direction_north">Пн</string>
+    <string name="direction_south">Пд</string>
+    <string name="direction_east">У</string>
+    <string name="direction_west">З</string>
+    <string name="direction_north_east">ПнУ</string>
+    <string name="direction_north_west">ПнЗ</string>
+    <string name="direction_south_east">ПдУ</string>
+    <string name="direction_south_west">ПдЗ</string>
+    <string name="guide_toast">Выканайце каліброўку, круцячы тэлефон так, як паказана на анімацыі.</string>
+    <string name="mobiledata_alert_dialog_title">Папярэджанне</string>
+    <string name="mobiledata_alert_dialog_message">Дазволіць доступ да інтэрнэту для каліброўкі?</string>
+    <string name="do_not_show_next_time">Захаваць</string>
+    <string name="location_not_enabled_title">Папярэджанне</string>
+    <string name="location_not_enabled_summary">Уключыць сэрвісы вызначэння месцазнаходжання?</string>
+    <string name="location_enable">ОК</string>
+    <string name="location_enable_later">Адмена</string>
+    <string name="location_enabled">Сэрвісы вызначэння месцазнаходжання ўключаны</string>
+    <string name="first_using_dialog_title">Папярэджанне</string>
+    <string name="first_using_dialog_message">Дазволіць праграме выкарыстоўваць інтэрнэт, камеру і пошук месцазнаходжання для карэктнай працы?</string>
+    <string name="using_camera_confirm_ok">ОК</string>
+    <string name="using_camera_confirm_cancel">Адмена</string>
+    <string name="shake_enter_tip">Страсяніце для каліброўкі</string>
+    <string name="calibrate_title">Каліброўка компасу</string>
+    <string name="calibrate_tip">Нахіліце прыладу, каб кальцо кацілася па крузе.</string>
+    <string name="calibrate_rotate_again">Паўтор</string>
+    <string name="error_camera_unavailable_title">Камера недаступная</string>
+    <string name="error_camera_unavailable">Праверце, ці выкарыстоўваецца камера іншай праграмай.</string>
+    <string name="altitude_uncalibrate_tip">Папярэджанне</string>
+    <string name="altitude_uncalibrate_msg">Не атрымліваецца скалібраваць вышыню без GPS ці мабільнага інтэрнэту</string>
+    <string name="altitude_uncalibrate_refresh">Паўтор</string>
+    <string name="altitude_uncalibrate_cancel">Адмена</string>
+    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
+</resources>

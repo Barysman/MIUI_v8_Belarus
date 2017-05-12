@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Гучная сувязь</string>
+    <string name="bluetooth_remember_choice">Больш не пытацца</string>
+    <string name="dun_notif_ticker">Bluetooth DUN request</string>
+    <string name="dun_notif_title">Патрабуецца ключ сесіі для выкарыстання Bluetooth-мадэма</string>
+    <string name="dun_notif_message">Націсніце для падлучэння да \"%1$s\"</string>
+    <string name="dun_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
+    <string name="bluetooth_dun_request">Запыт дазволу на выкарыстанне Bluetooth-мадэма</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s спрабуе скарыстацца Bluetooth-мадэмам. Дазволіць %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Phone Folder Access</string>
+    <string name="ftp_session_key_dialog_title">Type session key for %1$s</string>
+    <string name="ftp_session_key_dialog_header">Bluetooth session key required</string>
+    <string name="ftp_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
+    <string name="ftp_authentication_timeout_message">There was time out to input session key with %1$s</string>
+    <string name="ftp_notif_ticker">Bluetooth connection request</string>
+    <string name="ftp_notif_title">Патрабуецца ключ сесіі для абмену файламі</string>
+    <string name="ftp_notif_message">Націсніце для падлучэння да \"%1$s\"</string>
+    <string name="ftp_notif_active_session">Актыўна Bluetooth-сесія абмену файламі</string>
+    <string name="ftp_notif_connected">Прылада \"%1$s\" падлучана</string>
+    <string name="bluetooth_ftp_request">Запыт дазволу для абмену файламі</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">«%1$s» спрабуе атрымаць доступ да файлаў і папак на гэтай прыладзе. Дазволіць %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
+    <string name="map_acceptance_dialog_header">Phone Folder Access</string>
+    <string name="map_session_key_dialog_title">Type session key for %1$s</string>
+    <string name="map_session_key_dialog_header">Bluetooth session key required</string>
+    <string name="map_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
+    <string name="map_authentication_timeout_message">There was time out to input session key with %1$s</string>
+    <string name="map_notif_ticker">Bluetooth connection request</string>
+    <string name="map_notif_active_session">Актыўна Bluetooth-сесія доступу да паведамленняў</string>
+    <string name="map_notif_connected">Прылада «%1$s» падлучана</string>
+    <string name="map_notif_title">Session Key Request for MAP</string>
+    <string name="map_notif_message">Націсніце для падлучэння да \"%1$s\"</string>
+    <string name="map_alert_conn_failed_message">Bluetooth MAP connection failed.</string>
+    <string name="bluetooth_mas_request">Запыт доступу да паведамленняў</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">«%1$s» спрабуе атрымаць доступ да паведамленняў. Дазволіць %2$s?</string>
+    <string name="sap_notif_ticker">Bluetooth SIM Access request</string>
+    <string name="sap_notif_title">Session Key Request for SAP</string>
+    <string name="sap_notif_message">Націсніце для падлучэння да \"%1$s\"</string>
+    <string name="sap_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
+    <string name="bluetooth_sap_request">Запыт доступу да SIM-карткі</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">«%1$s» спрабуе атрымаць доступ да SIM-карткі. Дазволіць %2$s?</string>
+</resources>

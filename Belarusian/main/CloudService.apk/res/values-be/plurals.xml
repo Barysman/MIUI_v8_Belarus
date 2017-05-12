@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+        <item quantity="other">Выключана: %d</item>
+        <item quantity="one">Выключана: %d</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Не сінхранізавана: %d</item>
+        <item quantity="one">Не сінхранізавана: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">Чарга сінхранізацыі: %d</item>
+        <item quantity="one">Чарга сінхранізацыі: %d</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">Кантактаў: %d</item>
+        <item quantity="one">Кантактаў: %d</item>
+        <item quantity="few">Кантактаў: %d</item>
+        <item quantity="many">Кантактаў: %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Паведамленняў: %d</item>
+        <item quantity="one">Паведамленняў: %d</item>
+        <item quantity="few">Паведамленняў: %d</item>
+        <item quantity="many">Паведамленняў: %d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Нататак: %d</item>
+        <item quantity="one">Нататак: %d</item>
+        <item quantity="few">Нататак: %d</item>
+        <item quantity="many">Нататак: %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">Выяў: %d</item>
+        <item quantity="one">Выяў: %d</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">Запісаў у журнале выклікаў: %d</item>
+        <item quantity="one">Запісаў у журнале выклікаў: %d</item>
+        <item quantity="few">Запісаў у журнале выклікаў: %d</item>
+        <item quantity="many">Запісаў у журнале выклікаў: %d</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">Сетак WI-FI: %d</item>
+        <item quantity="one">Сетак WI-FI: %d</item>
+        <item quantity="few">Сетак WI-FI: %d</item>
+        <item quantity="many">Сетак WI-FI: %d</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">Запісаў: %d</item>
+        <item quantity="one">Запісаў: %d</item>
+        <item quantity="few">Запісаў: %d</item>
+        <item quantity="many">Запісаў: %d</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">Трэкаў: %d</item>
+        <item quantity="one">Трэкаў: %d</item>
+        <item quantity="few">Трэкаў: %d</item>
+        <item quantity="many">Трэкаў: %d</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">Дадзеныя браўзера: %d</item>
+        <item quantity="one">Дадзеныя браўзера: %d</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">Каляндарных запісаў: %d</item>
+        <item quantity="one">Каляндарных запісаў: %d</item>
+        <item quantity="few">Каляндарных запісаў: %d</item>
+        <item quantity="many">Каляндарных запісаў: %d</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">Запісаў чорнага спісу: %d</item>
+        <item quantity="one">Запісаў чорнага спісу: %d</item>
+        <item quantity="few">Запісаў чорнага спісу: %d</item>
+        <item quantity="many">Запісаў чорнага спісу: %d</item>
+    </plurals>
+</resources>

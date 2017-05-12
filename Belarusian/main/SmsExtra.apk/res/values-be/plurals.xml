@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Выдаліць %1$s дыялогаў?</item>
+        <item quantity="one">Выдаліць %1$s дыялог?</item>
+        <item quantity="few">Выдаліць %1$s дыялога?</item>
+        <item quantity="many">Выдаліць %1$s дыялогаў?</item>
+    </plurals>
+</resources>

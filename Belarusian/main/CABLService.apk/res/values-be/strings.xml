@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Адаптыўны кантроль яскравасці</string>
+    <string name="cabl_settings_title">Адаптыўны кантроль яскравасці</string>
+    <string name="cabl_enable_title">Уключыць адаптыўны кантроль яскравасці</string>
+    <string name="cabl_enable_summary_on">Падсветка будзе рэгулявацца на аснове зместу экрана</string>
+    <string name="cabl_enable_summary_off">Падсветка не будзе рэгулявацца на аснове зместу экрана</string>
+    <string name="cabl_levels_title">Узроўні падсветкі</string>
+    <string name="cabl_levels_summary">Зменьшаны ўзровень падсветкі садзейнічае змяньшэнню энэргаспажывання, але ўзровень падсветкі будзе ніжэйшы</string>
+    <string name="cabl_level_default">Аўтаматычны</string>						 
+    <string name="cabl_info_default">Невядома</string>
+    <string name="cabl_version_title">Версія праграмы</string>
+</resources>

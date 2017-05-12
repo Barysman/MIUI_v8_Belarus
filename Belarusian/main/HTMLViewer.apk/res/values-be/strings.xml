@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Прагляд HTML</string>
+    <string name="loading">Загрузка…</string>
+    <string name="app_name_which_call">Праграма: %s</string>
+    <string name="app_version_which_call">Версія: %s</string>
+    <string name="policy_name">Палітыка: %s</string>
+    <string name="mibi_license">Умовы карыстання Mi Credit</string>
+    <string name="license_host_unreachable">Не атрымалася падлучыцца да інтэрнэту. Для прагляду інфармацыі наведайце: %s</string>
+    <string name="permdesc_accessDrm">Дазваляе праграме атрымаць доступ да абароны DRM</string>
+    <string name="open_wifi_connect_title">Падлучыцца да %1$s</string>
+    <string name="open_wifi_connect_summary">Націсніце для прагляду</string>
+    <string name="settings_license_activity_title">Ліцэнзіі з адкрытым зыходным кодам</string>
+    <string name="settings_license_activity_loading">Загрузка…</string>
+    <string name="settings_license_activity_unavailable">Памылка загрузкі ліцэнзіі</string>
+    <string name="settings_safetylegal_title">Інфармацыя аб бяспецы</string>
+    <string name="settings_safetylegal_activity_title">Інфармацыя аб бяспецы</string>
+    <string name="settings_safetylegal_activity_unreachable">Няма падлучэння да інтэрнэту. Для прагляду інфармацыі наведайце сайт %s.</string>
+    <string name="settings_safetylegal_activity_loading">Загрузка…</string>
+    <string name="ime_privacy_policy">Абярыце клавіятуру</string>
+    <string name="ad_service">Сэрвісы рэкламы</string>
+    <string name="settings_ad_loading">Загрузка…</string>
+    <string name="settings_ad_loading_unavailable">Памылка загрузкі</string>
+    <string name="permlab_accessDrm">访问 DRM 内容。</string>
+</resources>

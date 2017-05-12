@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Дадому</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Назад</string>
+    <string name="abc_action_menu_overflow_description">Дадаткова</string>
+    <string name="abc_action_mode_done">Зроблена</string>
+    <string name="abc_activity_chooser_view_see_all">Паказаць усё</string>
+    <string name="abc_activitychooserview_choose_application">Абярыце праграму</string>
+    <string name="abc_capital_off">ВЫКЛ.</string>
+    <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Ачысціць запыты</string>
+    <string name="abc_searchview_description_query">Пошукавыя запыты</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Адаслаць запыт</string>
+    <string name="abc_searchview_description_voice">Галасавы пошук</string>
+    <string name="abc_shareactionprovider_share_with">Адаслаць</string>
+    <string name="abc_shareactionprovider_share_with_application">Адаслаць праз %s</string>
+    <string name="abc_toolbar_collapse_description">Схаваць</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_name">CleanMaster SDK</string>
+    <string name="browser_scan_history_desc">Гісторыя браўзера</string>
+    <string name="browser_search_history_desc">Пошукавыя запыты</string>
+    <string name="call_log">Журнал выклікаў</string>
+    <string name="clip_board_history_desc">Скапіяванае змесціва</string>
+    <string name="clipboard">Буфер абмену</string>
+    <string name="junk_tag_RF_EmptyFolders">Пустыя папкі</string>
+    <string name="junk_tag_RF_ImageThumbnails">Эскізы галерэі</string>
+    <string name="phone_search">Пошук Google</string>
+    <string name="privacy_appdata_chrome_history_des">Наведанныя сайты</string>
+    <string name="search_history">Гісторыя пошуку</string>
+    <string name="sms">Паведамленні</string>
+</resources>

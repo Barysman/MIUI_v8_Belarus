@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Абрэзаць шпалеры</string>
+    <string name="wallpaper_instructions">Паставіць шпалеры</string>
+    <string name="wallpaper_load_fail">Не атрымалася паставіць выяву ў якасці шпалер</string>
+</resources>

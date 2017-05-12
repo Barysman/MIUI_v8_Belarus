@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Поўны бэкап</string>
+    <string name="restore_confirm_title">Поўнае аднаўленне</string>
+    <string name="backup_confirm_text">"Запытана рэзервовае капіяванне ўсіх дадзеных на падлучаным кампутары. Дазволіць?
+\u0009
+Калі вы не запытвалі гэтага, не дазваляйце выкананне аперацыі."</string>
+    <string name="allow_backup_button_label">Стварыць бэкап дадзеных</string>
+    <string name="deny_backup_button_label">Не ствараць бэкап</string>
+    <string name="restore_confirm_text">"Падлучаны кампутар запытвае аднаўленне ўсіх дадзеных. Дазволіць?
+\u0009
+Калі вы не запытвалі гэтага, не дазваляйце выкананне аперацыі, бо яна заменіць усе дадзеныя на гэтай прыладзе."</string>
+    <string name="allow_restore_button_label">Аднавіць дадзеныя</string>
+    <string name="deny_restore_button_label">Не аднаўляць</string>
+    <string name="current_password_text">Увядзіце пароль для рэзервовага капіявання:</string>
+    <string name="device_encryption_restore_text">Увядзіце пароль для шыфравання прылады</string>
+    <string name="device_encryption_backup_text">Увядзіце пароль для шыфравання прылады ды архіву рэзервовых копій</string>
+    <string name="backup_enc_password_text">Увядзіце пароль для шыфравання ўсіх рэзервовых дадзеных. Калі поле застанецца пустым, будзе выкарыстаны бягучы пароль:</string>
+    <string name="backup_enc_password_optional">Каб зашыфраваць усе рэзервовыя дадзеныя, увядзіце пароль:</string>
+    <string name="backup_enc_password_required">На прыладзе ўключана шыфраванне. Яно будзе ўжыта і да рэзервовай копіі дадзеных. Калі ласка, увядзіце пароль.</string>
+    <string name="restore_enc_password_text">Калі адноўленыя дадзеныя зашыфраваны, увядзіце пароль:</string>
+    <string name="toast_backup_started">Рэзервовае капіяванне…</string>
+    <string name="toast_backup_ended">Рэзервовае капіяванне завершана</string>
+    <string name="toast_restore_started">Аднаўленне…</string>
+    <string name="toast_restore_ended">Аднаўленне завершана</string>
+    <string name="toast_timeout">Час чакання мінуў</string>
+</resources>

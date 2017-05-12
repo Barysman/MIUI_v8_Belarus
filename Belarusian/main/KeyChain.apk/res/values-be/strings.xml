@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ключы бяспекі</string>
+    <string name="title_no_certs">Сертыфікаты не знойдзены</string>
+    <string name="title_select_cert">Абярыце сертыфікат</string>
+    <string name="requesting_application">Праграма \"%s\" запытвае сертыфікат. Выбар сертыфіката дазволіць праграме выкарыстоўваць ваш ідэнтыфікатар на розных серверах.</string>
+    <string name="requesting_server">Праграма ідэнтыфікавала запыт сервера як %s. Калі вы давяраеце праграме, вы можаце дазволіць ёй выкарыстоўваць сертыфікат.</string>
+    <string name="install_new_cert_message">Вы можате усталяваць сертыфікат з файлу PKCS#12 з дазволамі %1$s або %2$s з памяці прылады</string>
+    <string name="install_new_cert_button_label">Усталяваць</string>
+    <string name="allow_button">Дазволіць</string>
+    <string name="deny_button">Забараніць</string>
+</resources>

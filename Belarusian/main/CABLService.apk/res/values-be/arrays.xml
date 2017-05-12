@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabl_level_values">
+        <item>Нізкі</item>
+        <item>Сярэдні</item>
+        <item>Высокі</item>
+        <item>Аўтаматычны</item>
+    </string-array>
+</resources>

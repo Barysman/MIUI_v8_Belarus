@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_not_found">Няма праграм для гэтага дзеяння</string>
+    <string name="back_to_message_list">Вярнуцца да паведамленняў</string>
+    <string name="confirm_delete_all_conversations">Выдаліць усе дыялогі?</string>
+    <string name="confirm_delete_conversation">Выдаліць увесь дыялог?</string>
+    <string name="confirm_delete_group_message">Выдаліць групавыя паведамленні?</string>
+    <string name="confirm_delete_locked_message">Выдаліць заблакаваныя паведамленні?</string>
+    <string name="confirm_delete_message">Выдаліць паведамленне?</string>
+    <string name="confirm_dialog_locked_title">Выдаліць заблакаванае паведамленне?</string>
+    <string name="confirm_dialog_title">Выдаліць?</string>
+    <string name="copy_message_text">Капіяваць</string>
+    <string name="copy_message_text_success">Тэкст скапіяваны</string>
+    <string name="delete">Выдаліць</string>
+    <string name="delete_message">Выдаліць</string>
+    <string name="from_label">"Ад каго: "</string>
+    <string name="menu_forward">Пераслаць</string>
+    <string name="menu_lock">Да абраных</string>
+    <string name="menu_unlock">З абраных</string>
+    <string name="message_details_title">Інфармацыя аб паведамленні</string>
+    <string name="message_type_label">"Тып: "</string>
+    <string name="messaging">Памедамленні</string>
+    <string name="received_label">"Атрымана: "</string>
+    <string name="repayment_network_error">Немагчыма падлучыцца да інтэрнэту</string>
+    <string name="repayment_title">Аплата</string>
+    <string name="repayment_way">Спосаб аплаты</string>
+    <string name="sent_label">"Да каго: "</string>
+    <string name="smart_messages_network_allow_message">Дазволіць Mi паведамленням падлучацца да інтэрнэту?</string>
+    <string name="smart_messages_network_allow_title">Папярэджанне</string>
+    <string name="sms_card_partner_label">"Партнёр SMS карткі: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="text_message">Тэкставае паведамленне</string>
+    <string name="view_message_details">Інфармацыя</string>
+    <string name="confirm_delete_all_SIM_messages">确定要删除SIM卡上所有的信息吗？</string>
+</resources>

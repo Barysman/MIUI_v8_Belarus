@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
+    <string name="app_name">Сэрвіс UniPlay</string>
+    <string name="service_name">Сэрвіс UniPlay</string>
+    <string name="notification_rc_title">Аддалёнае кіраванне Xiaomi</string>
+    <string name="notification_rc_desc">Вы можаце "аддалёным кіраваннем" кіраваць Xiaomi box и TV</string>
+</resources>

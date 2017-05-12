@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d г. "</item>
+        <item quantity="one">"%1$d г. "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d хв. "</item>
+        <item quantity="one">"%1$d хв. "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">1 сек.</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d хв.</item>
+        <item quantity="one">1 хв.</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Адкласці на %d хв.</item>
+        <item quantity="one">Адкласці на %d хв.</item>
+		<item quantity="few">Адкласці на %d хв.</item>
+        <item quantity="many">Адкласці на %d хв.</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Будзільнік будзе адтэрмінаваны на %d хв.</item>
+        <item quantity="one">Будзільнік будзе адтэрмінаваны на %d хв.</item>
+        <item quantity="few">Будзільнік будзе адтэрмінаваны на %d хв.</item>
+        <item quantity="many">Будзільнік будзе адтэрмінаваны на %d хв.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Будзільнік будзе выключаны праз %d хв.</item>
+        <item quantity="one">Будзільнік будзе выключаны праз %d хв.</item>
+        <item quantity="few">Будзільнік будзе выключаны праз %d хв.</item>
+        <item quantity="many">Будзільнік будзе выключаны праз %d хв.</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Выдаліць абраныя будзільнікі?</item>
+        <item quantity="one">Выдаліць абраны будзільнік?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Выдаліць часавыя паясы?</item>
+        <item quantity="one">Выдаліць часавы пояс?</item>
+    </plurals>
+</resources>

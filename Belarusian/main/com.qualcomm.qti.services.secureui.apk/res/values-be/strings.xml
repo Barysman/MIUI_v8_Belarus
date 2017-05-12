@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сэрвіс бяспекі інтэрфейсу</string>
+    <string name="perm_label">Бяспека інтэрфейсу QC</string>
+    <string name="perm_desc">Доступ да бяспекі інтэрфейсу</string>
+</resources>

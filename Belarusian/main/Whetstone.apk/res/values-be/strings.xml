@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Аптымізацыя сістэмы</string>
+    <string name="permstep_label">Счытванне дзеянняў</string>
+    <string name="permstep_description">Дазволіць праграме счытваць дзеянні прылады</string>
+    <string name="whetstone_accessibility_label">Сэрвіс Whetstone</string>
+    <string name="whetstone_accessibility_desc">Дапаможны сэрвіс Whetstone</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пошук прылады</string>
+    <string name="find_device">Пошук прылады</string>
+    <string name="enable_find_device_success">Пошук прылады уключаны</string>
+    <string name="disable_find_device_success">Пошук прылады выключаны</string>
+    <string name="enable_find_device_error">Памылка ўключэння пошуку прылады. %1$s.</string>
+    <string name="disable_find_device_error">Памылка выключэння пошуку прылады. %1$s.</string>
+    <string name="find_device_error_unknown">Невядомая памылка (%s)</string>
+    <string name="find_device_error_password_changed">Пароль акаўнта быў зменены</string>
+    <string name="find_device_error_network">Праверце налады сеткі і паспрабуйце яшчэ раз</string>
+    <string name="find_device_error_server">Памылка сервера (%s)</string>
+    <string name="find_device_error_account_sys_timeout">Памылка падлучэння да Mi акаўнта</string>
+    <string name="find_device_error_account_unknown_error">Памылка Mi акаўнта (%s)</string>
+    <string name="find_device_crash">Праграма спынена</string>
+    <string name="find_device_storage_corrupted">Пошук прылады пашкоджаны. Ваша прылада цяпер у небяспечнасці.</string>
+    <string name="find_device_telephony_fault">Пошук прылады: няспраўнасць тэлефаніі (%s)</string>
+    <string name="time_correction_success">Час скарэктаваны</string>
+    <string name="time_correction_failure">Памылка карэкцыі часу (%s)</string>
+    <string name="find_device_stop_noise">Выключыць</string>
+    <string name="find_device_noise_title">Гук пошуку прылады</string>
+    <string name="find_device_success_title">Пошук прылады</string>
+    <string name="find_device_notice_p1">Наведайце сайт</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
+    <string name="find_device_notice_p3">"для пошуку, блакавання або аднаўлення вашай прылады.\u000d
+Калі вы змянілі SIM-картку, неабходна паўторна актываваць акаўнт па SMS."</string>
+    <string name="i_know">ОК</string>
+    <string name="unlock_error_network">Інтэрнэт недаступны</string>
+    <string name="unlock_error_device_id">Не атрымоўваецца атрымаць ID прылады</string>
+    <string name="unlock_error_ssl_hand_shake">Не атрымоўваецца падлучыцца да сервера. Паспрабуйце наладзіць дату і час уручную.</string>
+    <string name="unlock_bad_authentication">Няправільнае імя карыстальніка або пароль</string>
+    <string name="unlock_error_server">Памылка сервера</string>
+    <string name="unlock_access_denied">Доступ забаронены</string>
+    <string name="unlock_wrong_captcha">Уведзены памылковы код</string>
+    <string name="unlock_error_unknown">Не атрымоўваецца ўвайсці</string>
+    <string name="unlock_error_user_name">Няправільнае імя карыстальніка</string>
+    <string name="unlock_error_interrupted">Перапынена</string>
+    <string name="unlock_error_rpc">Памылка RPC</string>
+    <string name="unlock_error_abort">Адменена карыстальнікам</string>
+    <string name="unlock_error_passport_sdk_timeout">Mi акаўнт не адказывае</string>
+    <string name="activate_xiaomi_account">Актываваць гэту прыладу</string>
+    <string name="login_extra_steps">Праверка ўваходу…</string>
+    <string name="phone_locked">Гэта прылада прывязана да існуючага Mi акаўнта (%s). Патрабуецца аўтарызацыя.</string>
+    <string name="password">Пароль</string>
+    <string name="captcha">Каптча</string>
+    <string name="stop_on_empty_password">Увядзіце пароль</string>
+    <string name="stop_on_empty_captcha">Увядзіце каптчу</string>
+    <string name="verifing_account">Праверка пароля…</string>
+    <string name="doing_extra_login_steps">Праверка аўтарызацыі…</string>
+    <string name="adding_or_updating_account">Абнаўленне акаўнта…</string>
+    <string name="unlocking">Актывацыя…</string>
+    <string name="unlock">Актываваць</string>
+    <string name="verify_password_failed">Не атрымоўваецца праверыць ID Mi акаўнта. %s.</string>
+    <string name="login_failed">Не атрымоўваецца ўвайсці. %s</string>
+    <string name="change_find_device_status_failed">Не атрымоўваецца разблакаваць. %s.</string>
+    <string name="unlock_help_title">Інфармацыя аб разблакаванні:</string>
+    <string name="unlock_help">"Падлучыцеся да інтэрнэту.\u000d
+Пераканайцеся, што ў прыладу пастаўлена працуючая SIM картка, і прылада падлучана да бяспечнай сеткі Wi-Fi.\u000d
+\u000d
+Забыліся пароль?\u000d
+Перайдзіце на id.mi.com для аднаўлення пароля.\u000d
+\u000d
+Іншыя прычыны:\u000d
+Перайдзіце на i.mi.com і паспрабуйце разблакаваць прыладу"</string>
+    <string name="passport_vcode_prompt_long">Увядзіце праверачны код</string>
+    <string name="passport_trust_device">Давяраць гэтай прыладзе</string>
+    <string name="passport_verify">Праверка</string>
+    <string name="passport_error_empty_vcode">Увядзіце праверачны код</string>
+    <string name="passport_checking_vcode">Праверка пароля…</string>
+    <string name="unlock_error_wrong_vcode">Уведзены памылковы код</string>
+    <string name="passport_notification_processing">Загрузка…</string>
+    <string name="passport_notification_need_unlock_again">Паўтарыце актывацыю</string>
+    <string name="device_lost">Гэта прылада згублена</string>
+    <string name="device_locked">Прылада заблакавана</string>
+    <string name="default_lock_msg_words_with_phone">Я страціў свой тэлефон! Калі ласка, звяжыцеся са мной.</string>
+    <string name="default_lock_msg_words">Я страціў свой тэлефон, звяжусь з вамі пазней.</string>
+    <string name="lock_msg_phone">Мае кантакты: %s</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">Не хапае месца на SD-картке</string>
+    <string name="dialog_insufficient_space_on_cache">Не хапае ўнутранай памяці</string>
+    <string name="auto_restart_under_wifi">Аўтаматычна загрузіць гэты файл праз Wi-Fi</string>
+    <string name="task_already_exist">Загрузка ўжо існуе</string>
+    <string name="privacy_tip_title">Сэрвіс Xunlei</string>
+    <string name="privacy_tip_content">Выкарыстоўваць Xunlei для павялічэння хуткасці загрузкі? Спасылка загружанага файла і інфармацыі аб Вашым Mi акаўнце будуць адасланыя на сервер Xunlei.</string>
+    <string name="privacy_tip_cancel">Адмена</string>
+    <string name="privacy_tip_ok">ОК</string>
+    <string name="privacy_notif_title">Сэрвіс Xunlei</string>
+    <string name="privacy_notif_content">Націсніце для прагляду інфармацыі</string>
+    <string name="notif_text_engine_on">Запуск службы…</string>
+    <string name="notif_text_engine_off">Сэрвіс Xunlei выключаны</string>
+    <string name="notif_title_single_downloading">Загрузка %1$s</string>
+    <string name="notif_title_multiple_downloading">Загрузка %1$d файлаў</string>
+    <string name="notif_title_file_size">Памер файла %1$d</string>
+    <string name="paused_waiting_for_network">Чаканне сеткі</string>
+    <string name="warning_tip_title">Папярэджанне аб трафіку</string>
+    <string name="warning_tip_content">Падчас загрузкі файлаў праз мабільны інтэрнэт аператарам можа спаганяцца дадатковая плата. Спыніць загрузку?</string>
+    <string name="warning_tip_cancel">Адмена</string>
+    <string name="warning_tip_ok">ОК</string>
+    <string name="dialog_not_show_again">Запомніць</string>
+    <string name="notification_download_complete">Загрузка завершана</string>
+    <string name="notification_download_failed">Не атрымалася загрузіць файл</string>
+    <string name="notification_download_success_more">Загружана: %1$d</string>
+    <string name="notification_download_failed_more">Не атрымалася загрузіць: %1$d</string>
+    <string name="mobile_recommended_title">Мабільны інтэрнэт</string>
+    <string name="recommended_file_size_download_in_mobile">Выкарыстоўваць %s мабільнага трафіку для загрузкі файла?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Выкарыстоўваць мабільны трафік для загрузкі файла?</string>
+    <string name="button_wait_for_wifi">Чакаць</string>
+    <string name="button_download_now">Загрузіць</string>
+    <string name="insufficient_space">Недастаткова месца для загрузкі</string>
+    <string name="enter_garbage_clean">Ачыстка памяці</string>
+    <string name="download_apk_desktop_pending">Чаканне…</string>
+    <string name="download_apk_desktop_pause">Паўза</string>
+    <string name="download_apk_desktop_running">Загрузка…</string>
+    <string name="download_apk_desktop_installing">Усталёўка…</string>
+    <string name="xl_speedup_experience_notify_title">Сэрвіс паскарэння</string>
+    <string name="xl_speedup_experience_notify_context">Павелічэнне хуткасці загрузкі дзякуючы сэрвісу Xunlei</string>
+    <string name="xl_speedup_notify_button_experience">Паспрабаваць</string>
+    <string name="xl_speedup_notify_button_member">Набыць</string>
+    <string name="notify_disabled_net_by_app">Падключэнне абмежавана праграмай Бяспека</string>
+    <string name="notify_only_wifi_download">Чаканне Wi-Fi</string>
+    <string name="notify_install_guide_title">%s усталявана</string>
+    <string name="notify_install_guide_msg">Адчыніць</string>
+    <string name="notify_install_guide_forward_text">Адчыніць</string>
+    <string name="app_label">Дыспетчар загрузак</string>
+    <string name="permlab_downloadManager">Доступ да мэнэджэра загрузкі</string>
+    <string name="permdesc_downloadManager">Праграма атрымае доступ да дыспетчару загрузак і зможа загружаць файлы праз яго. Шкоднасныя праграмы могуць такім чынам перарываць загрузкі і праглядаць асабістую інфармацыю</string>
+    <string name="permlab_downloadManagerAdvanced">Пашыраныя функцыі мэнэджара загрузак</string>
+    <string name="permdesc_downloadManagerAdvanced">Праграма атрымае доступ да пашыраных функцый дыспетчару загрузак. Шкоднасныя праграмы могуць такім чынам перарываць загрузкі і праглядаць асабістую інфармацыю</string>
+    <string name="permlab_downloadCompletedIntent">Адправіць абвестку пра загрузку</string>
+    <string name="permdesc_downloadCompletedIntent">Праграма зможа адпраўляць абвесткі аб завершаных загрузках. Шкоднасныя праграмы могуць такім чынам замінаць працы праграм, якія загружаюць файлы</string>
+    <string name="permlab_seeAllExternal">Праглядзець усе загрузкі на SD-картцы</string>
+    <string name="permdesc_seeAllExternal">Праграма атрымае доступ да ўсіх загрузак на SD-картцы незалежна ад таго, праз якую праграму яны былі загружаныя</string>
+    <string name="permlab_downloadCacheNonPurgeable">Рэзерваваць месца ў кэшы загрузкі</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Праграма зможа загружаць файлы ў кэш загрузкі (які не можа быць аўтаматычна ачышчаны), калі мэнэджару загрузкі спатрэбіцца больш месца</string>
+    <string name="permlab_downloadWithoutNotification">загружаць файлы без абвесткі</string>
+    <string name="permdesc_downloadWithoutNotification">Праграма зможа загружаць файлы праз дыспетчар загрузак без апавяшчэння карыстальніка</string>
+    <string name="permlab_accessAllDownloads">Доступ да ўсіх загрузак</string>
+    <string name="permdesc_accessAllDownloads">Праграма зможа адчыняць і змяняць загрузкі незалежна ад таго, праз якую праграму яны былі загружаныя</string>
+    <string name="download_unknown_title">&lt;без назвы></string>
+    <string name="notification_need_wifi_for_size">Загрузка толькі праз Wi-Fi</string>
+    <string name="notification_paused_in_background">Загрузка прыпынена</string>
+    <string name="wifi_required_title">Занадта вялікі файл для сеткі аператара</string>
+    <string name="wifi_required_body" formatted="false">"Для завяршэння загрузкі файла памерам %s неабходна падлучэнне да сеткі Wi-Fi.
+
+Каб працягнуць загрузку пазней праз Wi-Fi, націсніце %s"</string>
+    <string name="wifi_recommended_title">Загрузкі</string>
+    <string name="wifi_recommended_body" formatted="false">"Падчас загрузкі праз мабільную сетку магчыма празмернае спажыванне трафіку.
+
+Каб выканаць загрузку пазней па Wi-Fi, націсніце \"Дадаць у чаргу\". 
+
+%s(%s)"</string>
+    <string name="button_queue_for_wifi">Дадаць у чаргу</string>
+    <string name="button_cancel_download">Адмена</string>
+    <string name="button_start_now">Запусціць</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Засталося: %s</string>
+    <string name="download_no_application_title">Не атрымалася адчыніць файл</string>
+    <string name="root_downloads">Загрузкі</string>
+    <string name="download_queued">У чарзе</string>
+    <string name="download_running">У працэсе</string>
+    <string name="download_error">Памылкі загрузкі</string>
+    <string name="download_running_percent">Працэс: %d%%</string>
+</resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="__leak_canary_class_has_leaked">Уцечка: %s</string>
+    <string name="__leak_canary_class_has_leaked">Уцечка: %s</string> 
     <string name="__leak_canary_leak_list_title">Выяўлена ўцечка ў %s</string>
     <string name="__leak_canary_notification_message">Націсніце для прагляду</string>
     <string name="__leak_canary_share_leak">Адаслаць</string>

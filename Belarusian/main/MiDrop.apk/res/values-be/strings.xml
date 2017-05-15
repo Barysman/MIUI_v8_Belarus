@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mi Drop</string>
+    <string name="app_name">Mi Drop</string> 
     <string name="hello_world">Прывітанне, свет!</string>
     <string name="action_settings">Налады</string>
     <string name="title_activity_p2p_group_owner">Праверка P2pGroupOwner</string>

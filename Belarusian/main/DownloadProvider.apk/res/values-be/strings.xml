@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dialog_insufficient_space_on_external">Не хапае месца на SD-картке</string>
+    <string name="dialog_insufficient_space_on_external">Не хапае месца на SD-картке</string> 
     <string name="dialog_insufficient_space_on_cache">Не хапае ўнутранай памяці</string>
     <string name="auto_restart_under_wifi">Аўтаматычна загрузіць гэты файл праз Wi-Fi</string>
     <string name="task_already_exist">Загрузка ўжо існуе</string>

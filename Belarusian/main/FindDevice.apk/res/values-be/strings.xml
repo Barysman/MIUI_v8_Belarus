@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Пошук прылады</string>
+    <string name="app_name">Пошук прылады</string> 
     <string name="find_device">Пошук прылады</string>
     <string name="enable_find_device_success">Пошук прылады уключаны</string>
     <string name="disable_find_device_success">Пошук прылады выключаны</string>

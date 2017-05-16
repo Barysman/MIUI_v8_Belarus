@@ -10,7 +10,7 @@
     <string name="permdesc_accessDrm">Дазваляе праграме атрымаць доступ да абароны DRM</string>
     <string name="open_wifi_connect_title">Падлучыцца да %1$s</string>
     <string name="open_wifi_connect_summary">Націсніце для прагляду</string>
-    <string name="settings_license_activity_title">Ліцэнзіі з адкрытым зыходным кодам</string>
+    <string name="settings_license_activity_title">Ліцэнзіі з адчыненым зыходным кодам</string>
     <string name="settings_license_activity_loading">Загрузка…</string>
     <string name="settings_license_activity_unavailable">Памылка загрузкі ліцэнзіі</string>
     <string name="settings_safetylegal_title">Інфармацыя аб бяспецы</string>

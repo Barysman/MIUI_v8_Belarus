@@ -75,7 +75,7 @@
     <string name="sync_dspt_entrance_provision_2">
 Падрабязней</string>	
     <string name="sync_dspt_entrance_provision_confirm_close">ОК</string>
-    <string name="sync_dspt_entrance_provision_confirm_open">Адмена</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Адхіліць</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Прапусціць аўтарызацыю Mi Cloud?</string>
     <string name="sync_dspt_entrance_provision_confirm_content">Mi Cloud дазваляе сінхранізаваць фота, кантакты, паведамленні і іншыя дадзеныя паміж прыладамі.</string>
     <string name="sync_dspt_entrance_provision_skip"><u>Прапусціць</u></string>
@@ -130,7 +130,7 @@
 	<string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Выключана</string>
     <string name="find_device_disabled_notice">Вы можаце пераключаць функцыю пошуку прылады з наладаў Mi-акаўнта.</string>
-    <string name="button_cancel">Адмена</string>
+    <string name="button_cancel">Адхіліць</string>
     <string name="enable_micloud">Актываваць сэрвісы</string>
     <string name="micloud_more">Падрабязней</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
@@ -145,7 +145,7 @@
     <string name="master_alert_notif_content">Сінхранізацыя выключана</string>
     <string name="sub_alert_notif_title">Сінхранізацыя дадзеных</string>
     <string name="sub_alert_notif_content">Уключыце Mi Cloud</string>
-    <string name="noRemind">Адмена</string>
+    <string name="noRemind">Адхіліць</string>
     <string name="restoreSync">Сінхранізаваць</string>
     <string name="enableAll">ОК</string>
     <string name="master_alert_notif_dspt_add">Не сінхранізавана: %s</string>
@@ -359,7 +359,7 @@
     <string name="share_weibo_not_installed">Праграма \"Weibo\" не усталявана</string>
     <string name="share_weixin_not_installed">Праграма \"Wechat\" не усталявана</string>
     <string name="share_success">Адсыланне завершана</string>
-    <string name="share_cancel">Адсыланне адменена</string>
+    <string name="share_cancel">Адсыланне адхілена</string>
     <string name="share_failed">Памылка адсылання</string>
     <string name="cloud_back_up_title">Бэкап прылады</string>
     <string name="cloud_restore_title">Аднавіць з бэкапу</string>
@@ -384,9 +384,9 @@
     <string name="micloud_main_title_sync_on_wifi">Праз сетку WI-FI</string>
     <string name="micloud_main_title_sync_off">Сінхранізацыя выключана</string>
     <string name="micloud_main_title_master_sync_off">Сінхранізацыя выключана</string>
-    <string name="micloud_confusion_no">Адмена</string>
+    <string name="micloud_confusion_no">Адхіліць</string>
     <string name="micloud_confusion_yes">ОК</string>
-    <string name="micloud_confusion_cancel">Адмена</string>
+    <string name="micloud_confusion_cancel">Адхіліць</string>
     <string name="micloud_confusion_ok">ОК</string>
     <string name="micloud_confusion_entrance_title">Mi Cloud быў зменены</string>
     <string name="micloud_confusion_entrance_question">Вы змянялі дадзеныя ў Mi Cloud праз %s?</string>
@@ -418,7 +418,7 @@
     <string name="forget_password"><u>Забыліся пароль</u></string>
     <string name="micloud_sync_alert_dialog_title">Mi Cloud</string>
     <string name="micloud_sync_alert_dialog_message">Сінхранізуйце фота, кантакты, нататкі і іншыя дадзеныя паміж прыладамі.</string>
-    <string name="micloud_sync_alert_dialog_negative">Адмена</string>
+    <string name="micloud_sync_alert_dialog_negative">Адхіліць</string>
     <string name="micloud_sync_alert_dialog_positive">ОК</string>
     <string name="micloud_battery_low_notification_title">Батарэя разраджана</string>
     <string name="micloud_battery_low_notification_message">Сінхранізацыя прыпынена</string>
@@ -511,7 +511,7 @@
     <string name="wipe_data_dialog_msg_and_on">, і іншыя элементы.</string>
     <string name="micloud_dialog_sync_now_title">Папярэджанне</string>
     <string name="micloud_dialog_sync_now_message">Ці працягнуць сінхранізацыю па мабільнаму інтэрнэту?</string>
-    <string name="micloud_dialog_sync_now_negative">Адмена</string>
+    <string name="micloud_dialog_sync_now_negative">Адхіліць</string>
     <string name="micloud_dialog_sync_now_positive">ОК</string>
     <string name="micloud_main_save_battery_on">Уключаны рэжым энергазберажэння</string>
     <string name="micloud_main_not_sync">Чаканне сінхранізацыі: %d</string>

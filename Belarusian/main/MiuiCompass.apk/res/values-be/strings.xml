@@ -43,12 +43,12 @@
     <string name="location_not_enabled_title">Папярэджанне</string>
     <string name="location_not_enabled_summary">Уключыць сэрвісы вызначэння месцазнаходжання?</string>
     <string name="location_enable">ОК</string>
-    <string name="location_enable_later">Адмена</string>
+    <string name="location_enable_later">Адхіліць</string>
     <string name="location_enabled">Сэрвісы вызначэння месцазнаходжання ўключаны</string>
     <string name="first_using_dialog_title">Папярэджанне</string>
     <string name="first_using_dialog_message">Дазволіць праграме выкарыстоўваць інтэрнэт, камеру і пошук месцазнаходжання для карэктнай працы?</string>
     <string name="using_camera_confirm_ok">ОК</string>
-    <string name="using_camera_confirm_cancel">Адмена</string>
+    <string name="using_camera_confirm_cancel">Адхіліць</string>
     <string name="shake_enter_tip">Страсяніце для каліброўкі</string>
     <string name="calibrate_title">Каліброўка компасу</string>
     <string name="calibrate_tip">Нахіліце прыладу, каб кальцо кацілася па крузе.</string>
@@ -58,6 +58,6 @@
     <string name="altitude_uncalibrate_tip">Папярэджанне</string>
     <string name="altitude_uncalibrate_msg">Не атрымліваецца скалібраваць вышыню без GPS ці мабільнага інтэрнэту</string>
     <string name="altitude_uncalibrate_refresh">Паўтор</string>
-    <string name="altitude_uncalibrate_cancel">Адмена</string>
+    <string name="altitude_uncalibrate_cancel">Адхіліць</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
 </resources>

@@ -151,7 +151,7 @@
     <string name="auto_silence_title">Аўтавыключэнне</string>
     <string name="auto_silence_never">Выключана</string>
     <string name="done">Зроблена</string>
-    <string name="revert">Адмена</string>
+    <string name="revert">Адхіліць</string>
     <string name="delete">Выдаліць</string>
     <string name="alarm_volume_title">Гучнасць</string>
     <string name="alarm_volume_summary">Наладка гучнасці будзільніка</string>

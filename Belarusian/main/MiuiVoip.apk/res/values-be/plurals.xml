@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown"> 
-        <item quantity="other">Засталося %1$d націскаў для адкрыцця магчымасцяў для распрацоўнікаў Mi выклікаў</item>
-        <item quantity="one">Застаўся %1$d націск для адкрыцця магчымасцяў для распрацоўнікаў Mi выклікаў</item>
+        <item quantity="other">Засталося %1$d націскаў для адчынення магчымасцяў для распрацоўнікаў Mi выклікаў</item>
+        <item quantity="one">Застаўся %1$d націск для адчынення магчымасцяў для распрацоўнікаў Mi выклікаў</item>
     </plurals>
     <plurals name="show_nondev_countdown">
         <item quantity="other">>Засталося %1$d націскаў для закрыцця магчымасцяў для распрацоўнікаў Mi выклікаў</item>

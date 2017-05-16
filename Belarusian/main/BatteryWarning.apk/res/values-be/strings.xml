@@ -6,14 +6,14 @@
     <string name="title_battery_over_voltage">Батарэе перанапружана</string>
     <string name="title_safety_timer_timeout">Тайм-аўт таймера бяспекі</string>
     <string name="title_battery_low_temperature">Нізкая тэмпература батарэі</string>
-    <string name="msg_charger_over_voltage">Ваш зараднік перанапружаны, адключыце зараднік!</string>
+    <string name="msg_charger_over_voltage">Ваш зараднік перанапружаны, выключце зараднік!</string>
     <string name="msg_battery_over_temperature">Ваша батарэя перагрэтая, калі ласка, выдаліце ​​батарэю!</string>
     <string name="msg_over_current_protection">Ваша батарэя перагружана па току, калі ласка, выдаліце ​​батарэю!</string>
     <string name="msg_battery_over_voltage">Увага! Батарэя перанапружана!</string>
-    <string name="msg_safety_timer_timeout">Час зарадкі занадта доўгі. Адключыце зараднік!</string>
+    <string name="msg_safety_timer_timeout">Час зарадкі занадта доўгі. Выключце зараднік!</string>
     <string name="msg_battery_low_temperature">Папярэджанне! Занадта нізкая тэмпература батарэі!</string>
     <string name="btn_ok_msg">Адкласці</string>
-    <string name="btn_cancel_msg">Адмяніць</string>
+    <string name="btn_cancel_msg">Адхіліць</string>
     <string name="msg_battery_over_temperature_nochange">Папярэджанне! Ваша батарэя перагрэтая!</string>
     <string name="schpwr_shutdown_message1">Прылада будзе выключана праз %s с.</string>
     <string name="schpwr_shutdown_message_over_temperature">Перагрэў батарэі. Прылада будзе выключана праз %s с.</string>

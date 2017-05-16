@@ -36,7 +36,7 @@
     <string name="unlock_error_user_name">Няправільнае імя карыстальніка</string>
     <string name="unlock_error_interrupted">Перапынена</string>
     <string name="unlock_error_rpc">Памылка RPC</string>
-    <string name="unlock_error_abort">Адменена карыстальнікам</string>
+    <string name="unlock_error_abort">Адхілена карыстальнікам</string>
     <string name="unlock_error_passport_sdk_timeout">Mi акаўнт не адказывае</string>
     <string name="activate_xiaomi_account">Актываваць гэту прыладу</string>
     <string name="login_extra_steps">Праверка ўваходу…</string>

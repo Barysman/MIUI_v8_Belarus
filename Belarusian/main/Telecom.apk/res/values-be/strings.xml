@@ -23,7 +23,7 @@
     <string name="respond_via_sms_confirmation_format">Паведамленне адаслана %s</string>
     <string name="outgoing_call_not_allowed">Карыстальнік не мае правоў здзяйсняць звычайныя званкі</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Памылковы нумар тэлефона</string>
-    <string name="video_call_not_allowed_if_tty_enabled">Адключыце рэжым TTY для здзяйснення відэазванкоў</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Выключыце рэжым TTY для здзяйснення відэазванкоў</string>
     <string name="no_vm_number">Адсутнічае нумар галасавой пошты</string>
     <string name="no_vm_number_msg">Няма захаванага нумара галасавой пошты на SIM-картцы</string>
     <string name="add_vm_number_str">Дадаць нумар</string>

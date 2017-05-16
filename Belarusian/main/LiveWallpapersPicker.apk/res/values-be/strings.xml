@@ -10,5 +10,5 @@
     <string name="set_live_wallpaper">Усталяваць</string>
     <string name="wallpaper_title_and_author">%1$s, аўтар: %2$s</string>
     <string name="live_wallpaper_loading">Загрузка жывых шпалер…</string>
-    <string name="wallpaper_cancel">Адмяніць</string>
+    <string name="wallpaper_cancel">Адхіліць</string>
 </resources>

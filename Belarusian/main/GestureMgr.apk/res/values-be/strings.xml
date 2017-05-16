@@ -12,13 +12,13 @@
     <string name="title_gesture_customize">Наладка жэста</string>
     <string name="summary_gesture_setting">На выключаным экране намалюўце гэты жэст для: %1$s</string>
     <string name="menu_save">Захаваць</string>
-    <string name="menu_discard">Адмяніць</string>
+    <string name="menu_discard">Адхіліць</string>
     <string name="menu_reset">Скінуць</string>
     <string name="menu_clear">Ачысціць</string>
     <string name="menu_ok">OK</string>
     <string name="toast_gesture_saved">Жэст захаваны</string>
     <string name="toast_gesture_error">Gesture error</string>
-    <string name="message_discard">Адмяніць змены?</string>
+    <string name="message_discard">Адхіліць змены?</string>
     <string name="message_reset_default">Скінуць гэты жэст на налады па змаўчанні?</string>
     <string name="summary_gesture_customize">Намалюйце свой жэст для: %1$s</string>
 </resources>

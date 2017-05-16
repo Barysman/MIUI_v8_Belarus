@@ -6,7 +6,7 @@
     <string name="task_already_exist">Загрузка ўжо існуе</string>
     <string name="privacy_tip_title">Сэрвіс Xunlei</string>
     <string name="privacy_tip_content">Выкарыстоўваць Xunlei для павялічэння хуткасці загрузкі? Спасылка загружанага файла і інфармацыі аб Вашым Mi акаўнце будуць адасланыя на сервер Xunlei.</string>
-    <string name="privacy_tip_cancel">Адмена</string>
+    <string name="privacy_tip_cancel">Адхіліць</string>
     <string name="privacy_tip_ok">ОК</string>
     <string name="privacy_notif_title">Сэрвіс Xunlei</string>
     <string name="privacy_notif_content">Націсніце для прагляду інфармацыі</string>
@@ -18,7 +18,7 @@
     <string name="paused_waiting_for_network">Чаканне сеткі</string>
     <string name="warning_tip_title">Папярэджанне аб трафіку</string>
     <string name="warning_tip_content">Падчас загрузкі файлаў праз мабільны інтэрнэт аператарам можа спаганяцца дадатковая плата. Спыніць загрузку?</string>
-    <string name="warning_tip_cancel">Адмена</string>
+    <string name="warning_tip_cancel">Адхіліць</string>
     <string name="warning_tip_ok">ОК</string>
     <string name="dialog_not_show_again">Запомніць</string>
     <string name="notification_download_complete">Загрузка завершана</string>
@@ -40,7 +40,7 @@
     <string name="xl_speedup_experience_notify_context">Павелічэнне хуткасці загрузкі дзякуючы сэрвісу Xunlei</string>
     <string name="xl_speedup_notify_button_experience">Паспрабаваць</string>
     <string name="xl_speedup_notify_button_member">Набыць</string>
-    <string name="notify_disabled_net_by_app">Падключэнне абмежавана праграмай Бяспека</string>
+    <string name="notify_disabled_net_by_app">Падлучэнне абмежавана праграмай Бяспека</string>
     <string name="notify_only_wifi_download">Чаканне Wi-Fi</string>
     <string name="notify_install_guide_title">%s усталявана</string>
     <string name="notify_install_guide_msg">Адчыніць</string>
@@ -74,7 +74,7 @@
 
 %s(%s)"</string>
     <string name="button_queue_for_wifi">Дадаць у чаргу</string>
-    <string name="button_cancel_download">Адмена</string>
+    <string name="button_cancel_download">Адхіліць</string>
     <string name="button_start_now">Запусціць</string>
     <string name="download_percent">%d%%</string>
     <string name="download_remaining">Засталося: %s</string>

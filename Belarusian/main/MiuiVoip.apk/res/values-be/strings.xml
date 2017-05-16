@@ -66,7 +66,7 @@
     <string name="voip_droped_call">Выклік завершаны %1$s</string>
     <string name="voip_call_failed_title">Не атрымалася здзейсніць Mi выклік</string>
     <string name="voip_call_failed_message">Абанент не адказвае ці не падлучаны да інтэрнэту. Вы можаце здзейсніць звычайны выклік.</string>
-    <string name="voip_call_failed_hang_up_title">Адмена</string>
+    <string name="voip_call_failed_hang_up_title">Адхіліць</string>
     <string name="voip_call_failed_common_call_title">Выклік</string>
     <string name="voip_call_switch_call_title">Звычайны выклік</string>
     <string name="voip_call_switch_call_message">Абярыце нумар тэлефона для звычайнага выкліку</string>
@@ -74,13 +74,13 @@
     <string name="phone_switch_tip">Звычайны выклік</string>
     <string name="no_sim_found">SIM картка недаступная</string>
     <string name="unknown">Памылка</string>
-    <string name="network_unavailable">Не атрымоўваецца падключыцца да інтэрнэту</string>
-    <string name="net_connect_fails">Не атрымоўваецца падключыцца да інтэрнэту</string>
+    <string name="network_unavailable">Не атрымоўваецца падлучыцца да інтэрнэту</string>
+    <string name="net_connect_fails">Не атрымоўваецца падлучыцца да інтэрнэту</string>
     <string name="app_name_which_call">Праграма: %s</string>
     <string name="app_version_which_call">Версія: %s</string>
     <string name="policy_name">Палітыка: %s</string>
     <string name="loading">Загрузка…</string>
-    <string name="license_host_unreachable">Не атрымоўваецца падключыцца да інтэрнэту. Для прагляду інфармацыі перайдзіце: %s</string>
+    <string name="license_host_unreachable">Не атрымоўваецца падлучыцца да інтэрнэту. Для прагляду інфармацыі перайдзіце: %s</string>
     <string name="voip_about">Mi выклікі</string>
     <string name="voip_about_gif_desc">Рабіце бясплатныя Mi выклікі з профілю кантактаў або журнала выклікаў</string>
     <string name="voip_about_net_title">Мабільны трафік</string>

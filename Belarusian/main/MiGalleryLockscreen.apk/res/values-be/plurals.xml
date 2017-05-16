@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">Падпісантаў: %1$s</item>
+        <item quantity="one">Падпісантаў: %1$s</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">Шпалер: %1$s</item>
+        <item quantity="one">Шпалер: %1$s</item>
+    </plurals>
+</resources>

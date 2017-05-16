@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Скінуць</string>
+    <string name="unlockscreen_recharging_message">Зарадка: %d%%</string>
+    <string name="unlockscreen_recharge_completed">Батарэя зараджана</string>
+	<string name="unlockscreen_recharge_completed">Зарадка завершана</string>																						 
+    <string name="unlockscreen_low_battery">Батарэя разраджана</string>
+    <string name="lockscreen_charging_msg">Зарадка</string>
+    <string name="emergency_call_string">Экстраны выклік</string>
+    <string name="forget_password_string">Забыліся пароль</string>
+    <string name="input_puk_code">Увядзіце PUK-код</string>
+    <string name="unlocking_sim_card">Разблакаванне SIM-карткі</string>
+    <string name="input_pin_code">Увядзіце PIN-код</string>
+    <string name="incorrect_pukcode_remaining_attempts">Памылковы PUK-код. Засталося спробаў: %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Памылковы PIN-код. Засталося спробаў: %d</string>
+    <string name="incorrect_pukcode">Памылковы PUK-код</string>
+    <string name="incorrect_pincode">Памылковы PIN-код</string>
+    <string name="open_wifi_settings">Адчыніць сеткавыя падлучэнні</string>
+    <string name="lock_screen_date">"d MMMM yyyy 
+EEEE"</string>
+	<string name="lock_screen_date_12">"d MMMM yyyy
+EEEE"</string>
+    <string name="lockscreen_glogin_password_hint">Пароль</string>
+    <string name="lockscreen_glogin_checking_password">Праверка…</string>
+    <string name="login_website_in_case_forget_password">Для скіду пароля, перайдзіце на сайт \"i.mi.com\".</string>
+    <string name="experimental_validate_thanks">Дзякуй!</string>
+    <string name="experimental_validate_warning">Дзякуй за дапамогу, вы робіце MIUI лепш!</string>
+    <string name="experimental_validate">Праверка</string>
+    <string name="experimental_try_string">Паўтарыць</string>
+    <string name="experimental_validate_username">Імя карыстальніка</string>
+    <string name="experimental_validate_password">Пароль</string>
+    <string name="experimental_validate_progress">Аўтарызацыя…</string>
+    <string name="experimental_validate_fail">Памылка аўтарызацыі</string>
+    <string name="lockscreen_glogin_invalid_input">Памылковыя імя карыстальніка альбо пароль</string>
+    <string name="find_device_turn_off_flight_mode">Выключыць рэжым палёту</string>
+    <string name="phone_locked_string">Тэлефон заблакаваны</string>
+    <string name="phone_locked_timeout_seconds_string">Паспрабуйце яшчэ раз праз %s сек.</string>
+    <string name="phone_locked_timeout_minutes_string">Паспрабуйце яшчэ раз праз %s хв.</string>
+    <string name="unlock_sim_string">Разблакаваць SIM-картку</string>
+    <string name="lockscreen_glogin_submit_button">Уваход</string>
+	<string name="phone_locked_foget_password">Забыліся пароль?</string>
+    <string name="phone_locked_foget_password_header">Што рабіць, калі забыліся пароль?</string>
+    <string name="phone_locked_foget_password_content">"Вы можаце ўвайсці на сайт i.mi.com з дапамогай Mi акаўнта, прывязанага да прылады, і ачысціць дадзеныя. Будуць выдалены ўсе асабістыя дадзеныя. Пасля гэтага вы зможаце перазагрузіць прыладу і аднавіць кантакты, паведамленні, фота і іншыя дадзеныя з Mi Cloud. 
+
+Прылада павінна быць аўтарызаваная ў Mi акаўнце."</string>
+    <string name="phone_locked_foget_password_footer">Перайдзіце на сайт i.mi.com, абярыце \"Find Device\", потым неабходную прыладу і націсніце \"Wipe device\".</string>
+    <string name="phone_locked_foget_password_ok">ОК</string>
+    <string name="lockscreen_access_pattern_start">Пачатак ключа</string>
+    <string name="lockscreen_access_pattern_cleared">Ключ ачышчаны</string>
+    <string name="lockscreen_access_pattern_cell_added">Аператар дададзены</string>
+    <string name="lockscreen_access_pattern_detected">Канец ключа</string>
+    <string name="default_lockscreen_unlock_hint_text">Разблакаваць</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы памылкова ўвялі пароль %d разоў(ы). Пасля %d памылковых спробаў уводу вам будзе прапанавана разблакаваць тэлефон з дапамогай Mi-акаўнта.\u000d
+\u000d
+ Паспрабуйце яшчэ раз праз %d сек."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Вы памылкова ўвялі пароль %d разоў(ы). Пасля %d памылковых спробаў усе дадзеныя будуць ачышчаны і адноўлены завадскія налады.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Вы памылкова ўвялі пароль %d разоў(ы). Усе дадзеныя будуць ачышчаны і адноўлены завадскія налады.</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Разблакавана Bluetooth прыладай</string>
+    <string name="missed_call_text">Прапушчаных выклікаў: %d</string>
+    <string name="wrong_password">Памылковы пароль</string>
+    <string name="keyguard_torch_cover_text">Каб ліхтарык не выключыўся, націсніце клавішу сілкавання.</string>
+    <string name="confirm_pin_msg">Увядзіце PIN паўторна</string>
+    <string name="invalid_confirm_pin_hint">PIN-коды не супадаюць</string>
+    <string name="unlock_string">ОК</string>
+    <string name="open_camera_hint_text">Адчыніць праграму \"%s\"</string>
+    <string name="open_remote_center_hint_text">Адчыніць праграму \"%s\"</string>
+	<string name="left_action_default_hint_text">Тэлефон</string>																	
+    <string name="click_to_enter_text">Адчыніць</string>
+	<string name="fingerprint_try_again_text">Паспрабуйце яшчэ раз</string>
+    <string name="fingerprint_not_identified_title">Не ўдаецца апазнаць адбітак пальца</string>
+    <string name="fingerprint_not_identified_msg">Увядзіце пароль для разблакавання прылады</string>
+    <string name="fingerprint_add_title">Дадаць адбітак пальца</string>
+    <string name="fingerprint_add_text">Інтэрфейс адбіткаў пальцаў абноўлены. Дадайце адбіткі пальцаў нанова.</string>
+    <string name="invalid_sim_pin_hint">Увядзіце PIN-код з 4-8 лічбаў</string>
+    <string name="invalid_sim_puk_hint">PUK-код складаецца з 8 і больш лічбаў</string>
+    <string name="input_password_hint_text">Увядзіце пароль</string>
+    <string name="input_pattern_hint_text">Увядзіце ключ</string>
+    <string name="input_password_after_boot_msg">Пасля перазагрузкі неабходна ўвайсці пароль</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Неабходна перайсці ў рэжым першага карыстальніка пасля перазагрузкі прылады</string>
+    <string name="fingerprint_lockout_msg">Паспрабуйце разблакаваць з дапамогай адбітка пальца праз хвіліну</string>
+    <string name="accessibility_enter_lock_wallpaper">Націсніце на шпалеры экрана блакавання</string>
+    <string name="lock_wallpaper_learn_more">Яшчэ ></string>
+    <string name="lock_wallpaper_enter">Увесці</string>
+    <string name="custom_lock_wallpaper_enter">Адчыніць</string>
+    <string name="fingerprint_enter_second_psw_title">Пароль другога карыстальніка</string>
+    <string name="fingerprint_enter_second_psw_msg">Увядзіце пароль другога карыстальніка пасля перазагрузкі прылады для выкарыстання сканэра адбіткаў пальцаў</string>
+    <string name="symbol_colon">:</string>
+</resources>

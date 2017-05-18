@@ -2,8 +2,7 @@
 <resources>
     <string name="delete">Скінуць</string>
     <string name="unlockscreen_recharging_message">Зарадка: %d%%</string>
-    <string name="unlockscreen_recharge_completed">Батарэя зараджана</string>
-	<string name="unlockscreen_recharge_completed">Зарадка завершана</string>																						 
+    <string name="unlockscreen_recharge_completed">Батарэя зараджана</string>																					 
     <string name="unlockscreen_low_battery">Батарэя разраджана</string>
     <string name="lockscreen_charging_msg">Зарадка</string>
     <string name="emergency_call_string">Экстраны выклік</string>

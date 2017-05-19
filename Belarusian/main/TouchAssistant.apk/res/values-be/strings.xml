@@ -47,7 +47,7 @@
     <string name="pref_category_quick_settings">Дзеянні</string>
     <string name="pref_category_system">Налады сістэмы</string>
     <string name="restore_default">Скід налад</string>
-    <string name="restore_intro">Аднавіць налады дапаможніка націскаў па змаўчанні?</string>
+    <string name="restore_intro">Аднавіць налады дапаможніка націскаў па змоўчанні?</string>
     <string name="show_on_keyguard">Паказываць на экране блакавання</string>
     <string name="theme_manager_not_supported">Менеджэр тэм не падтрымліваецца</string>
     <string name="process_name">com.android.systemui</string>

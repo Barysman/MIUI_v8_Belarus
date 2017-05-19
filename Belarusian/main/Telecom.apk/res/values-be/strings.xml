@@ -19,7 +19,7 @@
     <string name="respond_via_sms_setting_title_2">Рэдагаваць адказы</string>
     <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_edittext_dialog_title">Хуткі адказ</string>
-    <string name="respond_via_sms_menu_reset_default_activity">Скід па змаўчанні</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Скід па змоўчанні</string>
     <string name="respond_via_sms_confirmation_format">Паведамленне адаслана %s</string>
     <string name="outgoing_call_not_allowed">Карыстальнік не мае правоў здзяйсняць звычайныя званкі</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Памылковы нумар тэлефона</string>
@@ -54,6 +54,6 @@
     <string name="outgoing_call_not_allowed_no_permission">Гэтая праграма не можа здзяйсняць выходныя званкі без дазволу тэлефона</string>
     <string name="duplicate_video_call_not_allowed">Выклік не можа быць дададзены ў дадзены момант</string>
     <string name="change_default_dialer_dialog_title">Змена праграмы тэлефона</string>
-    <string name="change_default_dialer_with_previous_app_set_text">Выкарыстоўваць па змаўчанні %1$s замест %2$s?</string>
-    <string name="change_default_dialer_no_previous_app_set_text">Выкарыстоўваць па змаўчанні %s?</string>
+    <string name="change_default_dialer_with_previous_app_set_text">Выкарыстоўваць па змоўчанні %1$s замест %2$s?</string>
+    <string name="change_default_dialer_no_previous_app_set_text">Выкарыстоўваць па змоўчанні %s?</string>
 </resources>

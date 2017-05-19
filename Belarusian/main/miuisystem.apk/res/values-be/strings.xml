@@ -61,7 +61,7 @@
     <string name="heavy_snow">Снегапады</string>
     <string name="winter_solstice">Зімовае сонцастаянне</string>
     <string name="no_notification_tips">Няма апавяшчэнняў</string>
-    <string name="android_ringtone_default_with_actual">Рынгтон па змаўчанні (%1$s)</string>
+    <string name="android_ringtone_default_with_actual">Рынгтон па змоўчанні (%1$s)</string>
     <string name="cloud_state_disabled">Сінхранізацыя з Mi Cloud выключана</string>
     <string name="cloud_state_finished">Сінхранізавана з Mi Cloud</string>
     <string name="cloud_state_syncing">Сінхранізавана з Mi Cloud</string>

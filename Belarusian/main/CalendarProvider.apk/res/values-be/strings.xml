@@ -8,7 +8,7 @@
     <string name="holiday_data_no_network">Няма сеткі, паспрабуйце зноў</string>
     <string name="calendar_storage">Падзеі календара</string>
     <string name="upgrade_msg">Абнаўленне базы дадзеных календара…</string>
-    <string name="calendar_default_name">Па змаўчанні</string>
+    <string name="calendar_default_name">Па змоўчанні</string>
     <string name="calendar_info">Звесткі аб календары</string>
     <string name="calendar_info_error">Памылка</string>
     <string name="calendar_info_no_calendars">Няма календароў</string>

@@ -84,7 +84,7 @@
 	<string name="legal_off_day">Па выхадных днях</string>
     <string name="legal_off_day_message">" (выключаны па будных днях)"</string>
     <string name="default_alarm_alert">Мелодыя будзільніка</string>
-    <string name="default_alarm_title">Мелодыя па змаўчанні</string>
+    <string name="default_alarm_title">Мелодыя па змоўчанні</string>
 	<string name="menu_item_sort_by_gmt_offset">Сартаванне па часе</string>
     <string name="menu_item_sort_by_name">Сартаванне па назве</string>
     <string name="birthday_alarm">Святочны будзільнік</string>

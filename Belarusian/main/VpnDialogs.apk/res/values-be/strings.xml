@@ -4,7 +4,7 @@
     <string name="warning">%s спрабуе усталяваць VPN-злучэнне, што дасць магчымасць праграме перахопліваць ўвесь сеткавы трафік. <b>Не рабіце гэтага, калі не маеце даверу да праграмы.</b>" У іншым выпадку да вашых дадзеных можа быць атрыманы доступ шкоднаснай праграмай. "</string>
     <string name="legacy_title">VPN-злучэнне ўсталявана</string>
     <string name="configure">Наладзіць</string>
-    <string name="disconnect">Раз`яднаць</string>
+    <string name="disconnect">Раз\'яднаць</string>
     <string name="session">Сесія:</string>
     <string name="duration">Працягласць:</string>
     <string name="data_transmitted">Адаслана:</string>

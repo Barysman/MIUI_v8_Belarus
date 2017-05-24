@@ -14,8 +14,8 @@
     <string name="menu_share">Падзяліцца</string>
     <string name="menu_delete">Выдаліць</string>
     <string name="menu_select">Абярыце \"^1\"</string>
-    <string name="menu_advanced_show">Паказаць унутраны назапашвальнік</string>
-    <string name="menu_advanced_hide">Схаваць унутраны назапашвальнік</string>
+    <string name="menu_advanced_show">Паказаць унутраны накапляльнік</string>
+    <string name="menu_advanced_hide">Схаваць унутраны накапляльнік</string>
     <string name="menu_file_size_show">Паказаць памер файлаў</string>
     <string name="menu_file_size_hide">Схаваць памер файлаў</string>
     <string name="mode_selected_count">Абрана: %1$d</string>

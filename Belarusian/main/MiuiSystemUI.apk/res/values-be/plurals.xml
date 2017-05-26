@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d нядаўніх праграм</item>
+        <item quantity="one">%d нядаўняя праграма</item>
+        <item quantity="few">%d нядаўнія праграмы</item>
+        <item quantity="many">%d нядаўніх праграм</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">%d праграм</item>
+        <item quantity="one">%d праграма</item>
+        <item quantity="few">%d праграмы</item>
+        <item quantity="many">%d праграм</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Ясна</item>
+        <item quantity="one">Сонечна</item>
+    </plurals>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_title_prefix">
+        <item>Індэкс якасці паветра %1$s</item>
+        <item>Індэкс якасці паветра %1$s</item>
+        <item>Індэкс якасці паветра %1$s</item>
+        <item>Індэкс якасці паветра %1$s</item>
+        <item>Індэкс якасці паветра %1$s</item>
+        <item>Індэкс якасці паветра %1$s</item>
+        <item>Індэкс якасці паветра %1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Ясна</item>
+        <item>Воблачна</item>
+        <item>Пахмурна</item>
+        <item>Туман</item>
+        <item>Бура</item>
+        <item>Шторм</item>
+        <item>Моцны лівень</item>
+        <item>Навальніца</item>
+        <item>Дождж</item>
+        <item>Лівень</item>
+        <item>Дождж</item>
+        <item>Невялікі дождж</item>
+        <item>Снег з дажджом</item>
+        <item>Завіруха</item>
+        <item>Снег</item>
+        <item>Снегапад</item>
+        <item>Лёгкі снег</item>
+        <item>Невялікі снег</item>
+        <item>Пыльны шторм</item>
+        <item>Пясчаная бура</item>
+        <item>Умераны пыл</item>
+        <item>Вецер</item>
+        <item>Град</item>
+        <item>Пыл</item>
+        <item>Смуга</item>
+        <item>Ледзяны дождж</item>
+        <item>Няма дадзеных</item>
+    </string-array>
+</resources>

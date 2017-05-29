@@ -56,7 +56,7 @@
     <string name="sync_on">Укл.</string>
     <string name="sync_off">Выкл.</string>
     <string name="mx_dspt">Mi паведамленні</string>
-    <string name="mx_voip_dspt">Mi выклікі и Mi паведамленні</string>
+    <string name="mx_voip_dspt">Mi выклікі і Mi паведамленні</string>
     <string name="mx_sub_dspt_provision">Mi паведамленні</string>
     <string name="mx_sub_dspt_provision_with_voip">Mi выклікі</string>
     <string name="voip_choose_sim">Абярыце нумар тэлефона для актывацыі Mi выклікаў</string>

@@ -6,5 +6,5 @@
     <string name="app_name">Сэрвіс UniPlay</string>
     <string name="service_name">Сэрвіс UniPlay</string>
     <string name="notification_rc_title">Аддалёнае кіраванне Xiaomi</string>
-    <string name="notification_rc_desc">Вы можаце "аддалёным кіраваннем" кіраваць Xiaomi box и TV</string>
+    <string name="notification_rc_desc">Вы можаце "аддалёным кіраваннем" кіраваць Xiaomi box і TV</string>
 </resources>

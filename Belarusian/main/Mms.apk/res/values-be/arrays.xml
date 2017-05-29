@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Шчаслівы</item>
+        <item>Сумны</item>
+        <item>Падморгвае</item>
+        <item>Выстаўлены язык</item>
+        <item>Здзіўлены</item>
+        <item>Пацалунак</item>
+        <item>Галасяшчы</item>
+        <item>Выдатна</item>
+        <item>Грошы ў роце</item>
+        <item>Нага ў роце</item>
+        <item>Разгублены</item>
+        <item>Анёл</item>
+        <item>Нерашучы</item>
+        <item>Крычыць</item>
+        <item>Рот зачынены</item>
+        <item>Смяецца</item>
+        <item>Засаромлены</item>
+        <item>Сэрца</item>
+        <item>Раз\'юшаны</item>
+        <item>Ухмылка</item>
+        <item>Покерфэйс</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Імя</item>
+        <item>Мянушка</item>
+        <item>Тэлефон</item>
+        <item>Пошта</item>
+        <item>Кампанія</item>
+        <item>IM</item>
+        <item>SIP-нумар</item>
+        <item>Дзень нараджэння</item>
+        <item>Вэб-сайт</item>
+        <item>Адрас</item>
+        <item>Нататка</item>
+        <item>Адносіны</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Паведамленне</item>
+        <item>Воблачнае паведамленне</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Паведамленне</item>
+        <item>Воблачнае паведамленне</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Не ўсталявана</item>
+        <item>1 гадз.</item>
+        <item>6 гадз.</item>
+        <item>12 гадз.</item>
+        <item>1 дзень</item>
+        <item>Максімум</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Максімум</item>
+        <item>Два дні</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Сінхранізаваць усе паведамленні</item>
+        <item>Сінхранізаваць абраныя SIM-карткі</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Іншае</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Заўсёды</item>
+        <item>У рэжыме \"без гуку\"</item>
+        <item>Ніколі</item>
+    </string-array>
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="float_notification_whitelist">
+        <item>com.perm.kate.pro</item>
+        <item>com.google.android.talk</item>
+        <item>com.tencent.mm</item>
+        <item>com.google.android.youtube</item>
+        <item>com.vkmd.android</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.android.calendar</item>
+        <item>com.android.phone</item>
+        <item>com.android.mms</item>
+        <item>com.jeejen.family.miui</item>
+        <item>com.google.android.gm</item>
+        <item>com.android.email</item>
+        <item>android</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.android.updater</item>
+        <item>com.android.settings</item>
+        <item>com.android.bluetooth</item>
+        <item>com.whatsapp</item>
+        <item>org.telegram.messenger</item>
+        <item>com.miui.securitycore</item>
+        <item>com.lbe.security.miui</item>
+        <item>com.bsb.hike</item>
+        <item>com.fihtdc.fqc</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.miui.home</item>
+        <item>com.miui.personalassistant</item>
+        <item>com.mi.AutoTest</item>
+        <item>com.miui.packageinstaller</item>
+        <item>com.xiaomi.market</item>
+    </string-array>
+    <string-array name="boot_msg_text">
+        <item>Аптымізацыя сістэмы: 0%</item>
+        <item>Аптымізацыя сістэмы: 1%</item>
+        <item>Аптымізацыя сістэмы: 2%</item>
+        <item>Аптымізацыя сістэмы: 3%</item>
+        <item>Аптымізацыя сістэмы: 4%</item>
+        <item>Аптымізацыя сістэмы: 5%</item>
+        <item>Аптымізацыя сістэмы: 6%</item>
+        <item>Аптымізацыя сістэмы: 7%</item>
+        <item>Аптымізацыя сістэмы: 8%</item>
+        <item>Аптымізацыя сістэмы: 9%</item>
+        <item>Аптымізацыя сістэмы: 10%</item>
+        <item>Аптымізацыя сістэмы: 11%</item>
+        <item>Аптымізацыя сістэмы: 12%</item>
+        <item>Аптымізацыя сістэмы: 13%</item>
+        <item>Аптымізацыя сістэмы: 14%</item>
+        <item>Аптымізацыя сістэмы: 15%</item>
+        <item>Аптымізацыя сістэмы: 16%</item>
+        <item>Аптымізацыя сістэмы: 17%</item>
+        <item>Аптымізацыя сістэмы: 18%</item>
+        <item>Аптымізацыя сістэмы: 19%</item>
+        <item>Аптымізацыя сістэмы: 20%</item>
+        <item>Аптымізацыя сістэмы: 21%</item>
+        <item>Аптымізацыя сістэмы: 22%</item>
+        <item>Аптымізацыя сістэмы: 23%</item>
+        <item>Аптымізацыя сістэмы: 24%</item>
+        <item>Аптымізацыя сістэмы: 25%</item>
+        <item>Аптымізацыя сістэмы: 26%</item>
+        <item>Аптымізацыя сістэмы: 27%</item>
+        <item>Аптымізацыя сістэмы: 28%</item>
+        <item>Аптымізацыя сістэмы: 29%</item>
+        <item>Аптымізацыя сістэмы: 30%</item>
+        <item>Аптымізацыя сістэмы: 31%</item>
+        <item>Аптымізацыя сістэмы: 32%</item>
+        <item>Аптымізацыя сістэмы: 33%</item>
+        <item>Аптымізацыя сістэмы: 34%</item>
+        <item>Аптымізацыя сістэмы: 35%</item>
+        <item>Аптымізацыя сістэмы: 36%</item>
+        <item>Аптымізацыя сістэмы: 37%</item>
+        <item>Аптымізацыя сістэмы: 38%</item>
+        <item>Аптымізацыя сістэмы: 39%</item>
+        <item>Аптымізацыя сістэмы: 40%</item>
+        <item>Аптымізацыя сістэмы: 41%</item>
+        <item>Аптымізацыя сістэмы: 42%</item>
+        <item>Аптымізацыя сістэмы: 43%</item>
+        <item>Аптымізацыя сістэмы: 44%</item>
+        <item>Аптымізацыя сістэмы: 45%</item>
+        <item>Аптымізацыя сістэмы: 46%</item>
+        <item>Аптымізацыя сістэмы: 47%</item>
+        <item>Аптымізацыя сістэмы: 48%</item>
+        <item>Аптымізацыя сістэмы: 49%</item>
+        <item>Аптымізацыя сістэмы: 50%</item>
+        <item>Аптымізацыя сістэмы: 51%</item>
+        <item>Аптымізацыя сістэмы: 52%</item>
+        <item>Аптымізацыя сістэмы: 53%</item>
+        <item>Аптымізацыя сістэмы: 54%</item>
+        <item>Аптымізацыя сістэмы: 55%</item>
+        <item>Аптымізацыя сістэмы: 56%</item>
+        <item>Аптымізацыя сістэмы: 57%</item>
+        <item>Аптымізацыя сістэмы: 58%</item>
+        <item>Аптымізацыя сістэмы: 59%</item>
+        <item>Аптымізацыя сістэмы: 60%</item>
+        <item>Аптымізацыя сістэмы: 61%</item>
+        <item>Аптымізацыя сістэмы: 62%</item>
+        <item>Аптымізацыя сістэмы: 63%</item>
+        <item>Аптымізацыя сістэмы: 64%</item>
+        <item>Аптымізацыя сістэмы: 65%</item>
+        <item>Аптымізацыя сістэмы: 66%</item>
+        <item>Аптымізацыя сістэмы: 67%</item>
+        <item>Аптымізацыя сістэмы: 68%</item>
+        <item>Аптымізацыя сістэмы: 69%</item>
+        <item>Аптымізацыя сістэмы: 70%</item>
+        <item>Аптымізацыя сістэмы: 71%</item>
+        <item>Аптымізацыя сістэмы: 72%</item>
+        <item>Аптымізацыя сістэмы: 73%</item>
+        <item>Аптымізацыя сістэмы: 74%</item>
+        <item>Аптымізацыя сістэмы: 75%</item>
+        <item>Аптымізацыя сістэмы: 76%</item>
+        <item>Аптымізацыя сістэмы: 77%</item>
+        <item>Аптымізацыя сістэмы: 78%</item>
+        <item>Аптымізацыя сістэмы: 79%</item>
+        <item>Аптымізацыя сістэмы: 80%</item>
+        <item>Аптымізацыя сістэмы: 81%</item>
+        <item>Аптымізацыя сістэмы: 82%</item>
+        <item>Аптымізацыя сістэмы: 83%</item>
+        <item>Аптымізацыя сістэмы: 84%</item>
+        <item>Аптымізацыя сістэмы: 85%</item>
+        <item>Аптымізацыя сістэмы: 86%</item>
+        <item>Аптымізацыя сістэмы: 87%</item>
+        <item>Аптымізацыя сістэмы: 88%</item>
+        <item>Аптымізацыя сістэмы: 89%</item>
+        <item>Аптымізацыя сістэмы: 90%</item>
+        <item>Аптымізацыя сістэмы: 91%</item>
+        <item>Аптымізацыя сістэмы: 92%</item>
+        <item>Аптымізацыя сістэмы: 93%</item>
+        <item>Аптымізацыя сістэмы: 94%</item>
+        <item>Аптымізацыя сістэмы: 95%</item>
+        <item>Аптымізацыя сістэмы: 96%</item>
+        <item>Аптымізацыя сістэмы: 97%</item>
+        <item>Аптымізацыя сістэмы: 98%</item>
+        <item>Аптымізацыя сістэмы: 99%</item>
+        <item>Аптымізацыя сістэмы: 100%</item>
+    </string-array>
+</resources>

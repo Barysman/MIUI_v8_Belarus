@@ -187,7 +187,7 @@
     <string name="gadget_weather_title">"Надвор\'е "</string>
     <string name="gadget_weather_title_24">Надвор\'е 2х4</string>
     <string name="gadget_weather_title_14">Надвор\'е</string>
-    <string name="gadget_weather_app_not_installed">Націсніце для ўсталёўкі надвор'я MIUI</string>
+    <string name="gadget_weather_app_not_installed">Націсніце для ўсталёўкі надвор\'я MIUI</string>
     <string name="gadget_weather_time_format">EEE, d MMMM</string>
     <string name="gadget_weather_theme_type">Тып віджэту</string>
     <string name="gadget_weather_download_title">Загрузка</string>

@@ -1,0 +1,3 @@
+be = Дазвольце адсылку апавяшчэнняў
+
+https://github.com/mapsme/omim/wiki/strings.txt

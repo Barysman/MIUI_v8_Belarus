@@ -1,3 +1,4 @@
-be = Дазвольце адсылку апавяшчэнняў
+be = Дазвольце 556 адсылку апавяшчэнняў
 
-https://github.com/mapsme/omim/wiki/strings.txt
+dfgfdgdfg
+dfgdfg
